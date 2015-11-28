@@ -1,0 +1,72 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coneisa-Colorway conei-sa.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Oct 12 2015 17:39:35 GMT-0600 (CST)\n"
+"POT-Revision-Date: Mon Oct 26 2015 19:58:12 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: ashuin <asharma@symbiosisdigital.net>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the theme
+msgid "Coneisa-Colorway conei-sa.com"
+msgstr ""
+
+#. Description of the theme
+msgid "This is a child theme of Colorway. Specially customized for Conei S.A"
+msgstr ""
+
+#. Author of the theme
+msgid "Symbiosis Digital S.A"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.symbiosisdigital.net"
+msgstr ""
+
+#: ../footer.php:54
+msgid "Site map"
+msgstr ""
+
+#: ../footer.php:55
+msgid "Legal"
+msgstr ""
+
+#: ../footer.php:56
+msgid "Contact us"
+msgstr ""
+
+msgid "/legal"
+msgstr ""
+
+msgid "/sitemap"
+msgstr ""
+
+msgid "/contact-us"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "/product"
+msgstr ""
+
+msgid "Readmore"
+msgstr ""

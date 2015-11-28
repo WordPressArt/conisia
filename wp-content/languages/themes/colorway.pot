@@ -1,0 +1,1548 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ColorWay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Oct 12 2015 17:32:07 GMT-0600 (CST)\n"
+"POT-Revision-Date: Mon Oct 12 2015 17:32:29 GMT-0600 (CST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/jmongeam/public_html/redesign-conei-sa.com/wp-"
+"content/themes/colorway\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../../themes/colorway/404.php:18
+msgid "Not Found"
+msgstr ""
+
+#: ../../themes/colorway/404.php:19
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: ../../themes/colorway/archive.php:33
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../../themes/colorway/archive.php:35
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../../themes/colorway/archive.php:37
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../../themes/colorway/archive.php:39
+msgid "Blog Archives"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:23
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#. translators: %s - title of parent post
+#: ../../themes/colorway/attachment.php:26
+#, php-format
+msgid "<span>&larr;</span> %s"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:33
+#, php-format
+msgid "By %2$s"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:39
+#, php-format
+msgid "Published %2$s"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:45
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:45
+msgid "Link to full-size image"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:50 ../../themes/colorway/attachment.php:91
+msgid "Edit"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:89
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: ../../themes/colorway/attachment.php:90
+msgid "Pages:"
+msgstr ""
+
+#: ../../themes/colorway/author.php:35
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Page"
+msgstr ""
+
+#: ../../themes/colorway/blog.php:33 ../../themes/colorway/home.php:189 ../..
+#: /themes/colorway/loop.php:12 ../../themes/colorway/search.php:28
+msgid "Permanent Link to "
+msgstr ""
+
+#: ../../themes/colorway/blog.php:36 ../../themes/colorway/loop.php:15 ../..
+#: /themes/colorway/search.php:31
+#, php-format
+msgctxt "Time, Author, Category"
+msgid "Posted on %1$s by %2$s in %3$s."
+msgstr ""
+
+#: ../../themes/colorway/blog.php:42 ../../themes/colorway/loop.php:21 ../..
+#: /themes/colorway/single.php:31
+msgid "Post Tagged with "
+msgstr ""
+
+#: ../../themes/colorway/blog.php:45 ../../themes/colorway/loop.php:26 ../..
+#: /themes/colorway/search.php:35 ../../themes/colorway/single.php:25
+msgid "No Comments."
+msgstr ""
+
+#: ../../themes/colorway/blog.php:45 ../../themes/colorway/loop.php:26 ../..
+#: /themes/colorway/search.php:35 ../../themes/colorway/single.php:25
+msgid "1 Comment."
+msgstr ""
+
+#: ../../themes/colorway/blog.php:45 ../../themes/colorway/loop.php:26 ../..
+#: /themes/colorway/search.php:35 ../../themes/colorway/single.php:25
+#, php-format
+msgid "% Comments."
+msgstr ""
+
+#: ../../themes/colorway/blog.php:47 ../../themes/colorway/loop.php:24 ../..
+#: /themes/colorway/search.php:36
+msgid "Continue Reading..."
+msgstr ""
+
+#: ../../themes/colorway/blog.php:54 ../../themes/colorway/loop.php:34
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../../themes/colorway/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../../themes/colorway/comments.php:14
+msgid "No Responses"
+msgstr ""
+
+#: ../../themes/colorway/comments.php:14
+msgid "One Response"
+msgstr ""
+
+#: ../../themes/colorway/comments.php:14
+msgid "% Responses"
+msgstr ""
+
+#: ../../themes/colorway/comments.php:14
+msgid "so far."
+msgstr ""
+
+#: ../../themes/colorway/comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the template
+msgid "Contact"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:12
+msgid "Please enter your name."
+msgstr ""
+
+#: ../../themes/colorway/contact.php:18
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../../themes/colorway/contact.php:21
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../../themes/colorway/contact.php:27
+msgid "Please enter a message."
+msgstr ""
+
+#: ../../themes/colorway/contact.php:67
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: ../../themes/colorway/contact.php:72
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: ../../themes/colorway/contact.php:78
+msgid "Name:"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:85
+msgid "Email"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:92
+msgid "Message:"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:108
+msgid "Send Email"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:123 ../../themes/colorway/single.php:49
+msgid "If you enjoyed this article please consider sharing it!"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:125 ../../themes/colorway/single.php:52
+msgid "Tweet this!"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:128 ../../themes/colorway/single.php:55
+msgid "Share on StumbleUpon!"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:131 ../../themes/colorway/single.php:58
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../../themes/colorway/contact.php:134 ../../themes/colorway/single.php:61
+msgid "Digg This!"
+msgstr ""
+
+#: ../../themes/colorway/footer.php:52
+msgid "Colorway Wordpress Theme</a> by InkThemes.com"
+msgstr ""
+
+#: ../../themes/colorway/home.php:35
+msgid "Design is not just what it looks like and feels like. Design is how it works."
+msgstr ""
+
+#: ../../themes/colorway/home.php:56
+msgid "Power of Easiness"
+msgstr ""
+
+#: ../../themes/colorway/home.php:61
+msgid ""
+"This Colorway Wordpress Theme gives you the easiness of building your site "
+"without any coding skills required."
+msgstr ""
+
+#: ../../themes/colorway/home.php:78
+msgid "Power of Speed"
+msgstr ""
+
+#: ../../themes/colorway/home.php:83
+msgid ""
+"The Colorway Wordpress Theme is highly optimized for Speed. So that your "
+"website opens faster than any similar themes."
+msgstr ""
+
+#: ../../themes/colorway/home.php:97
+msgid "Power of SEO"
+msgstr ""
+
+#: ../../themes/colorway/home.php:102
+msgid ""
+"Visitors to the Website are very highly desirable. With the SEO Optimized "
+"Themes, You get more traffic from Google."
+msgstr ""
+
+#: ../../themes/colorway/home.php:117
+msgid "Ready Contact Form"
+msgstr ""
+
+#: ../../themes/colorway/home.php:122
+msgid ""
+"Let your visitors easily contact you. The builtin readymade contact form "
+"makes it easier for clients to contact."
+msgstr ""
+
+#: ../../themes/colorway/home.php:140
+msgid "Widget Area"
+msgstr ""
+
+#: ../../themes/colorway/home.php:158
+msgid "Latest From The Blog"
+msgstr ""
+
+#: ../../themes/colorway/home.php:192
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: ../../themes/colorway/home.php:212
+msgid "Our Customer Love Us"
+msgstr ""
+
+#: ../../themes/colorway/home.php:217
+msgid "Read the reviews of some of our  Customers."
+msgstr ""
+
+#: ../../themes/colorway/home.php:225 ../../themes/colorway/home.php:246 ../..
+#: /themes/colorway/home.php:267
+msgid ""
+"Create and Manage multiple contact forms using single dashboard. You can "
+"show Form on any single/every page of your website. You can also collect "
+"payments, leads and much more..."
+msgstr ""
+
+#: ../../themes/colorway/home.php:237
+msgid "Robin Chang"
+msgstr ""
+
+#: ../../themes/colorway/home.php:258
+msgid "Rown wiesly"
+msgstr ""
+
+#: ../../themes/colorway/home.php:279
+msgid "Jex Polack"
+msgstr ""
+
+#: ../../themes/colorway/search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../../themes/colorway/search.php:45
+msgid "Nothing Found"
+msgstr ""
+
+#: ../../themes/colorway/search.php:48
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../../themes/colorway/searchform.php:6 ../../themes/colorway/searchform.php:7 .
+#: ./../themes/colorway/searchform.php:8
+msgid "Search"
+msgstr ""
+
+#: ../../themes/colorway/sidebar.php:7
+msgid "Archives"
+msgstr ""
+
+#: ../../themes/colorway/sidebar.php:13
+msgid "Categories"
+msgstr ""
+
+#: ../../themes/colorway/single.php:22
+msgid "Posted on"
+msgstr ""
+
+#: ../../themes/colorway/single.php:23
+msgid "in"
+msgstr ""
+
+#: ../../themes/colorway/single.php:24
+msgid "on"
+msgstr ""
+
+#: ../../themes/colorway/single.php:37
+msgid "Previous Post "
+msgstr ""
+
+#: ../../themes/colorway/single.php:39
+msgid "Next Post "
+msgstr ""
+
+#: ../../themes/colorway/slit_slider.php:16
+msgid "Your Site is faster to build."
+msgstr ""
+
+#: ../../themes/colorway/slit_slider.php:23
+msgid ""
+"Premium WordPress Themes with Single Click Installation, Just a Click and "
+"your website is ready for use."
+msgstr ""
+
+#: ../../themes/colorway/slit_slider.php:116
+msgid "Previous"
+msgstr ""
+
+#: ../../themes/colorway/slit_slider.php:117
+msgid "Next"
+msgstr ""
+
+#: ../../themes/colorway/tag.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../../themes/colorway/tag.php:36
+msgid "&larr; Older posts"
+msgstr ""
+
+#: ../../themes/colorway/tag.php:37
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Template"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-functions.php:13
+msgid "This theme comes with an "
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-functions.php:13
+msgid ""
+"options panel</a> to configure settings. This theme also supports widgets, "
+"please visit the "
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-functions.php:13
+msgid "widgets settings page</a> to configure them."
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:21
+msgid "Theme Options"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:49
+msgid "Colorway Pro Version Features"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:53
+msgid "8 Built in Color Schemes"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:55
+msgid "PDF/Video Documentations"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:57
+msgid "Background Images Bonus"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:59 ../..
+#: /themes/colorway/functions/theme-options.php:67
+msgid "Home Page Slider"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:65
+msgid "Seo optimized Theme"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:67
+msgid "Wpml Compatible Theme"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:69
+msgid "Improved Zoom-box"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:71
+msgid "Gallery & Contact Page"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:74
+msgid "View Pro Demo"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:75
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:85
+msgid "Options Updated"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:88
+msgid "Options Reset"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:95
+msgid " Options"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:117
+msgid "Save All Changes"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:123
+msgid "Reset Options"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:134
+msgid "Notifications"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:138
+msgid "Get Themes email updates and a free WordPress ebook"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:139
+msgid ""
+"We'll send you new updates about themes and WordPress and a free WordPress "
+"tips & tricks ebook!"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:146
+msgid "Your Name"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:155
+msgid "Get the Colorway Pro Theme"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:156
+msgid ""
+"You are using the Lite Version of ColorWay Theme. Upgrade to Pro for extra "
+"features like Home Page Slider Contact Page, Gallery Features, Portfolio "
+"Page Template, FullWidth Page Templates, Multiple Color Options and much "
+"more."
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:157
+msgid "Get the Colorway Pro"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:161
+msgid "Rate us on WordPress.org "
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:162
+msgid ""
+"Get Best and free theme support. We are always ready to solve your queries. "
+"Just started your query at Wordpress.org"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:163
+msgid "Get Free Support"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:167
+msgid "Extra Benefits With Colorway Pro"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:168
+msgid ""
+"Get Premium Support & Free Bonus that includes one WordPress Notification "
+"Plugin and free bonus psd"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:483
+msgid "Upload Error: "
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:488
+msgid "Unsupported filetype uploaded."
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:788
+msgid "Arial"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:789
+msgid "Verdana"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:790
+msgid "Trebuchet"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:791
+msgid "Georgia"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:792
+msgid "Times New Roman"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:793
+msgid "Tahoma"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:794
+msgid "Palatino"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:795
+msgid "Helvetica*"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:821
+msgid "Normal"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:822
+msgid "Italic"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:823
+msgid "Bold"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:824
+msgid "Bold/Italic"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:876
+msgid "Solid"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:877
+msgid "Dashed"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:878
+msgid "Dotted"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:977
+msgid "Upload Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/admin-interface.php:985
+msgid "Remove"
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-functions.php:306
+msgid "Home Page Right Feature Widget Area"
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-functions.php:308
+msgid "The Home Page Right Feature widget area"
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:55 ../..
+#: /themes/colorway/functions/plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:56 ../..
+#: /themes/colorway/functions/plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:57 ../..
+#: /themes/colorway/functions/plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:58
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:59 ../..
+#: /themes/colorway/functions/inkthemes-plugin-notify.php:60 ../..
+#: /themes/colorway/functions/plugin-activation.php:160
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:61 ../..
+#: /themes/colorway/functions/plugin-activation.php:161
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:62
+#, php-format
+msgid "The following recommend plugin is currently inactive: %1$s."
+msgid_plural "The following recommend plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:63 ../..
+#: /themes/colorway/functions/plugin-activation.php:163
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:64 ../..
+#: /themes/colorway/functions/plugin-activation.php:164
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:65 ../..
+#: /themes/colorway/functions/plugin-activation.php:165
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:66 ../..
+#: /themes/colorway/functions/plugin-activation.php:166
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:67 ../..
+#: /themes/colorway/functions/plugin-activation.php:167
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:68
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:69
+msgid "Return to recommend Plugins Installer"
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:70 ../..
+#: /themes/colorway/functions/plugin-activation.php:171 ../..
+#: /themes/colorway/functions/plugin-activation.php:1678
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../../themes/colorway/functions/inkthemes-plugin-notify.php:71
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:159
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:162
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:168
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:172 ../..
+#: /themes/colorway/functions/plugin-activation.php:1413
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:476 ../..
+#: /themes/colorway/functions/plugin-activation.php:476 ../..
+#: /themes/colorway/functions/plugin-activation.php:1868 ../..
+#: /themes/colorway/functions/plugin-activation.php:1868
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1020
+msgid "Private Repository"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1023
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1028
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1030
+msgid "Required"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1030
+msgid "Recommended"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1032
+msgid "Not Installed"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1034
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1123 ../..
+#: /themes/colorway/functions/plugin-activation.php:1123 ../..
+#: /themes/colorway/functions/plugin-activation.php:1214
+msgid "Install"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1141 ../..
+#: /themes/colorway/functions/plugin-activation.php:1141 ../..
+#: /themes/colorway/functions/plugin-activation.php:1215
+msgid "Activate"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1182
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1196
+msgid "Plugin"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1197
+msgid "Source"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1198
+msgid "Type"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1199
+msgid "Status"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1663
+msgid "Install package not available."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1664
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1665
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1666
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1667
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1668
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1677
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1780
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1781
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1781 ../..
+#: /themes/colorway/functions/plugin-activation.php:1790
+msgid "Show Details"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1781 ../..
+#: /themes/colorway/functions/plugin-activation.php:1790
+msgid "Hide Details"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1782
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1783
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1787
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1788
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1789
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1790
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1791
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../../themes/colorway/functions/plugin-activation.php:1792
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:21
+msgid "On"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:21
+msgid "Off"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:25
+msgid "All Post)"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:35
+msgid "Select a page:"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:43
+msgid "General Settings"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:45
+msgid "Custom Logo"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:46
+msgid "Choose your own logo. Optimal Size: 215px Wide by 55px Height"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:49
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:50
+msgid "Specify a 16px x 16px image that will represent your website's favicon."
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:53
+msgid "Tracking Code"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:54
+msgid "Paste your Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:58
+msgid "Home Page Blog post On/Off"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:59
+msgid "Turn on or off the home page blog post as per your requirement."
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:69
+msgid "Home Page First Slider Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:70 ../..
+#: /themes/colorway/functions/theme-options.php:90
+msgid "Choose Image for your Home page Slider. Optimal Size: 1171px x 526px"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:73
+msgid "Home Page First Slider Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:74 ../..
+#: /themes/colorway/functions/theme-options.php:94
+msgid "Enter the Heading for Home page slider"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:78
+msgid "Home Page First Slide Link"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:79 ../..
+#: /themes/colorway/functions/theme-options.php:99
+msgid "Enter the Link URL for Home Page Slider"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:83
+msgid "Home Page First Slide Description"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:84 ../..
+#: /themes/colorway/functions/theme-options.php:104
+msgid "Enter the Description for Home Page First Slides Show"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:89
+msgid "Home Page Second Slider Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:93
+msgid "Home Page Second Slider Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:98
+msgid "Home Page Second Slide Link"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:103
+msgid "Home Page Second Slide Description"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:108
+msgid "Home Page Slider On/Off"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:109
+msgid "Turn on or off the home page Slider as per your requirement."
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:117
+msgid "Home Page Settings"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:119
+msgid "Home Page Intro"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:120
+msgid "Enter your heading text for home page"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:125
+msgid "First Feature Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:126
+msgid "Choose image for your feature column first. Optimal size 198px x 115px"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:130
+msgid "First Feature Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:131
+msgid "Enter your heading line for first column"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:135
+msgid "First Feature Link"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:136
+msgid "Enter your link for feature column first"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:140
+msgid "First Feature Content"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:141
+msgid "Enter your feature content for column first"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:146
+msgid "Second Feature Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:147
+msgid "Choose image for your feature column second. Optimal size 198px x 115px"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:151
+msgid "Second Feature Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:152
+msgid "Enter your heading line for second column"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:156
+msgid "Second Feature Link"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:157
+msgid "Enter your link for feature column second"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:161
+msgid "Second Feature Content"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:162
+msgid "Enter your feature content for column second"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:167
+msgid "Third Feature Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:168
+msgid "Choose image for your feature column thrid. Optimal size 198px x 115px"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:172
+msgid "Third Feature Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:173
+msgid "Enter your heading line for third column"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:177
+msgid "Third Feature Link"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:178
+msgid "Enter your link for feature column third"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:182
+msgid "Third Feature Content"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:183
+msgid "Enter your feature content for third column"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:188
+msgid "Fourth Feature Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:189
+msgid "Choose image for your feature column fourth. Optimal size 198px x 115px"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:193
+msgid "Fourth Feature Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:194
+msgid "Enter your heading line for fourth column"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:198
+msgid "Fourth Feature link"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:199
+msgid "Enter your link for feature column fourth"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:203
+msgid "Fourth Feature Content"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:204
+msgid "Enter your feature content for fourth column"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:208
+msgid "Home Page Widget Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:209
+msgid "Enter your text for homepage Widget heading."
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:213
+msgid "Home Page Blog Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:214
+msgid "Enter your text for homepage blog heading."
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:218
+msgid "Home Page Blog Posts"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:219
+msgid "Select Number of Post you want to show on Home page."
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:225
+msgid "Home Page Testimonial Setting"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:228
+msgid "Testimonial Main Heading"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:229
+msgid "Here mention the text testimonial Section Main Description"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:234
+msgid "Testimonial Main Description"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:235
+msgid "Here mention the text testimonial Section Description"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:240
+msgid "First Testimonial Description"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:241
+msgid "Here mention the first testimonial description of client"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:246
+msgid "First Testimonial Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:247
+msgid "Here mention the first testimonial Image of client"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:252
+msgid "First Testimonial Name"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:253 ../..
+#: /themes/colorway/functions/theme-options.php:271 ../..
+#: /themes/colorway/functions/theme-options.php:289
+msgid "Here mention the name of  testimonial name of client"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:258
+msgid "Second Testimonial Description"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:259
+msgid "Here mention the Second testimonial description of client"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:264
+msgid "Second Testimonial Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:265
+msgid "Here mention the Second testimonial Image of client"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:270
+msgid "Second Testimonial Name"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:276
+msgid "Third Testimonial Description"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:277
+msgid "Here mention the Third testimonial description of client"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:282
+msgid "Third Testimonial Image"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:283
+msgid "Here mention the Third testimonial Image of client"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:288
+msgid "Third Testimonial Name"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:296
+msgid "Styling Options"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:298
+msgid "Custom CSS"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:299
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:303
+msgid "Footer Settings"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:305
+msgid "Facebook URL"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:306
+msgid "Enter your Facebook URL if you have one"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:310
+msgid "Twitter URL"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:311
+msgid "Enter your Twitter URL if you have one"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:315
+msgid "RSS Feed URL"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:316
+msgid "Enter your RSS Feed URL if you have one"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:320
+msgid "Linked In URL"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:321
+msgid "Enter your Linkedin URL if you have one"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:325
+msgid "Stumble Upon URL"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:326 ../..
+#: /themes/colorway/functions/theme-options.php:331
+msgid "Enter your Stumble Upon URL if you have one"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:330
+msgid "Digg URL"
+msgstr ""
+
+#: ../../themes/colorway/functions/theme-options.php:335
+msgid "Premium Features"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:25
+msgid "join inkthemes membership"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:27
+#, php-format
+msgid ""
+"Get 100% complete access to our entire collection of 47+ WordPress Themes "
+"for only $147"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:28
+msgid "GRAB THIS OFFER $147 ONLY"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:32
+msgid "What You Will Get"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:37
+msgid "Get Access to All InkThemes"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:38
+msgid ""
+"Launch your new site in few minutes with 47+ fully functional WordPress "
+"Themes."
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:42
+msgid "Forum Support"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:43
+msgid "Unparalleled technical support will make your website building hassle free."
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:47
+msgid "Use on Multiple Domains"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:48
+msgid "Use the themes on multiple domains for yourself or for your clients."
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:52
+msgid "Consistent Updates"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:53
+msgid ""
+"We bring your needs into action with regular updates to bring the best "
+"themes for you."
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:57
+msgid "Photoshop Files"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:58
+msgid "Do design edits easily. Get layered photoshop files for all the themes."
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:62
+msgid "One Click Install"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:63
+msgid ""
+"Preloaded with sample data. You are just a click away from building "
+"astounding website."
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:67
+msgid "popular wordpress Themes from inkthemes"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:73 ../..
+#: /themes/colorway/functions/themes-page.php:81 ../..
+#: /themes/colorway/functions/themes-page.php:89 ../..
+#: /themes/colorway/functions/themes-page.php:97 ../..
+#: /themes/colorway/functions/themes-page.php:105
+msgid "Read More"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:75
+msgid "Business & Blog"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:76 ../..
+#: /themes/colorway/functions/themes-page.php:84 ../..
+#: /themes/colorway/functions/themes-page.php:92 ../..
+#: /themes/colorway/functions/themes-page.php:100 ../..
+#: /themes/colorway/functions/themes-page.php:108
+msgid "WordPress Themes"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:83
+msgid "Directory & Classified"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:91
+msgid "Video & Membership"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:99
+msgid "Appointment & Lead"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:107
+msgid "Ecommerce & Sales"
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:111
+msgid "And many More..."
+msgstr ""
+
+#: ../../themes/colorway/functions/themes-page.php:114
+msgid "BUMPER BONUSES (OVER $820) FOR FREE"
+msgstr ""
+
+#. Name of the theme
+msgid "ColorWay"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.inkthemes.com/wp-themes/colorway-wp-theme/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Colorway is Simple, Elegant, Responsive and beautiful Theme with Easy "
+"Customization Options built by InkThemes.com. The Customization Options "
+"includes using your own Logos, Backgrounds, Analytics and your own Custom "
+"Footer Texts and Analytics that can be tweaked using Theme Options Panel. "
+"Colorway Theme is Single Click Intall feature, Just press activate button "
+"and your website will get ready with all the dummy content. Just set the "
+"content from the Themes Options Panel. Colorway by InkThemes.com is suitable "
+"for any business or personal website. The Theme can work for various "
+"different niches. It includes special styles for Gallery pages, and has an "
+"optional fullwidth page template as well."
+msgstr ""
+
+#. Author of the theme
+msgid "InkThemes.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.inkthemes.com"
+msgstr ""

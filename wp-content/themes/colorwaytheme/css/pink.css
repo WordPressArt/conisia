@@ -1,0 +1,122 @@
+/*=========================================*/
+/*=========Green Color Scheme Style========*/
+/*=========================================*/
+a {
+    text-decoration:none;
+    color:#781149;
+}
+a:hover {
+    color:#ca438c;
+}
+/*=========================================*/
+/*==========Start Home Page Style==========*/
+/*=========================================*/
+
+/*==========Menus Colors==========*/
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+    color: #FFFFFF;
+    background:#ca438c;
+}
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover ,#menu li.current_page_item a {
+    color:#fff;
+    background:#781149;
+}
+#menu .ddsmoothmenu li li {
+    background: #781149;
+}
+/*==========Slider Colors==========*/
+.salesdetails  {
+    border-right:8px solid #781149;
+}
+.nav-dots span.nav-dot-current:after{
+    background-image:url(../images/pagination-pink.png);
+}
+.flexslider_blog .flex-direction-nav .next {
+	background: #781149 url(../images/next.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .prev {
+	background: #781149 url(../images/prev.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .next:hover{
+	background: #ca438c url(../images/next.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .prev:hover{
+	background: #ca438c url(../images/prev.png) center no-repeat;
+}
+.flex_testimonial .flex-control-nav li a:hover, .flex_testimonial .flex-control-nav li a.active{
+    background: #ca438c;    
+}
+.flexslider_blog li.blog_item .flex_content a.read_more:hover {
+    background: #781149;
+    border: 1px solid #781149;
+}
+/*==========Footer Colors==========*/
+.footer-container {
+    background: #ca438c;
+}
+.footer-container h4 {
+    border-bottom: 1px solid #CA1979;
+}
+.footer-container p {
+    color:#fff;
+}
+.footer-container .textwidget {
+    color: #fff;
+}
+.footer-container ul {
+    list-style-image:url(../images/pink-arrow.png);
+}
+.footer-container a {
+    color:#fff;
+}
+.footer-navi .navigation ul li {
+    background-position:100% 0%;
+}
+.footer-navi .navigation ul li a {
+    color:#f9b1d8;
+}
+.footer-navi .navigation .right-navi p {
+    color:#f9b1d8;
+}
+.footer-navi {
+    background:#781149;
+}
+.footer #searchform label {
+    color: #f898cc;
+}
+.footer #searchform {
+    background: #781149;
+}
+.footer .contactform input[type=text], .footer .contactform input[type=email] {
+    background-color: #781149;
+}
+.footer .contactform textarea {
+	background-color: #781149;
+}
+/*=========================================*/
+/*==========Start Home Page Style==========*/
+/*=========================================*/
+.folio-page-info ul.paging li.first a {
+    color:#FFFFFF;
+}
+.folio-page-info ul.paging li:hover {
+}
+ul.paging a.active, ul.paging a:hover, ul.paging a.current {
+    color:#ffffff !important;
+    border:1px solid #546F9E;
+    background:url(images/grad_px.gif) top repeat-x #CA438C;
+}
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+    .footer #searchform {
+        border:1px solid #d35f9d !important;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        background-color:#aa256c !important;
+    }
+}
+@media only screen and ( max-width: 768px ) {
+    .it_mobile_menu li a:hover, .it_mobile_menu > li.current_page_item > a {
+        color: #CA438C !important;
+    }
+}

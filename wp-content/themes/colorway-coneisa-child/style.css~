@@ -1,0 +1,19 @@
+/*
+Theme Name: Coneisa-Colorway conei-sa.com
+Description: This is a child theme of Colorway. Specially customized for Conei S.A
+Author: Symbiosis Digital S.A
+Author URI: www.symbiosisdigital.net
+Template: colorway
+Version: 0.1
+*/
+
+@import url("../colorway/style.css");
+
+/* Template modifications */
+
+/* End Template modifications */
+
+/* Child custom css properties */
+
+/* Footer */
+

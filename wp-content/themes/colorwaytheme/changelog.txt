@@ -1,0 +1,119 @@
+== Changelog ==
+= Theme Name: Colorway Premium =
+
+=Version: 3.6.4 =
+Feature box css distract issue fixed.
+
+=Version: 3.6.3 =
+1. Slider Shortcode Option Removed From Theme And Add Twelve Slides Show Option In Home Page Slider
+
+=Version: 3.6.2 =
+1. Slider Speed And Caption Issue Fixed.
+
+=Version: 3.6.1 =
+1. Slider On/Off Option Issue Fixed.
+2. Unlimited testimonial Option Added.
+3. Slides Show Option Added. 
+
+=Version: 3.6.0 =
+1. Home Page Slider Design And Animation Changed.
+2. Blog Design Changed In Home Page.
+3. Some Css Animation Added On Home Page.
+4. Theme Design Improved.
+      
+=Version: 3.5.3 =
+1. Shortcode function for Unlimited Feature box On Home page Added. 
+
+=Version: 3.5.2 =
+1. Data Loss Issue from lite to pro version is fixed.
+
+=Version: 3.5.1 =
+1. Design Issue Solved.
+2. Theme Style improved
+3. Upgrade: Lite theme to pro theme data lost, issue fixed.
+4. An option added for on/off for top feature section on home page. 
+5. An option added for on/off for blog section on home page.
+6. Remove title tag from header.php, used wordpress functionality instead.
+7. String translation issue, fixed.
+
+=Version: 3.5 =
+1. Slider Image Issue Fixed.
+
+=Version: 3.4 =
+1. Theme Font Changed
+
+=Version: 3.3.1 =
+1. Mobile View Sidebar Responsive Issue Fixed
+
+=Version: 3.3 =
+1. Theme Layout Enhance.
+2. Theme Design Updated.
+3. blog featue on home page updated.
+4. sidebar widget add in home.
+
+=Version: 3.2.6 =
+1. Slider Images Hyperlinked.
+2. Slider Speed Option Added.
+
+=Version: 3.2.5 =
+1.Contact page submit button text changed.
+2.Contact page social icon removed, input width issue fixed.
+3.Gallery template mobile screen issue fixed.
+
+=Version: 3.2.4 =
+1.Top Right Contact Info Removed.
+
+=Version: 3.2.3 =
+1.Slider Images 4 to 6 Increased.
+2.Tab To Call Added.
+3.Top Right Contact Info Added.
+
+=Version: 3.2.2 =
+1.Css Improved.
+2.Contact Form Improved.
+3.Comment Form Improved
+4.Blog Page Improved
+5.W3c HTML and Css Validation Issue Fixed.
+
+=Version: 3.2.1 =
+1.Slider image ratio fixed.
+2.Attacment error solved.
+
+=Version: 3.2 =
+* * RTL added Theme style.
+* * Activeted slider in mobile device.
+
+=Version: 3.1 =
+* * Number of sildes increased from 4 to 6.
+
+=Version: 3.0 =
+*Theme has converted into responsive design.
+
+= Version: 2.1.7=
+* * Timthumb script remove, Dynamic Image Cropping script used.
+* Gallery z-index issue fixed.
+
+= Version: 2.1.6=
+* Gallery z-index issue fixed.
+
+= Version: 2.1.5=
+* Gallery z-index issue fixed.
+* More social icons added.
+
+= Version: 2.1.4=
+* New Zoombox updated.
+* Optimized css.
+* Miner issues resolved.
+
+= Version: 2.1.3=
+* Enable blog page in front page.
+* Slider video bug fixed.
+* Language translation enabled.
+* Slider video enabled.
+
+== Version: 2.1.2==
+* Upgraded to single slider.
+* Removed unnecessary comments from all files.
+* Removed all unnecessary files.
+* Resolved Page list in sidebar widget.
+ 

@@ -1,0 +1,134 @@
+/*=========================================*/
+/*=========Green Color Scheme Style========*/
+/*=========================================*/
+a {
+    text-decoration:none;
+    color:#a63400;
+}
+a:hover {
+    color:#8a0a0b;
+}
+/*=========================================*/
+/*==========Start Home Page Style==========*/
+/*=========================================*/
+
+/*==========Menus Colors==========*/
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+    color: #FFFFFF;
+    background:#a63400;
+}
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover ,#menu li.current_page_item a {
+    color:#fff;
+    background:#8a0a0b;
+}
+#menu .ddsmoothmenu li li {
+    background: #8a0a0b;
+}
+/*==========Slider Colors==========*/
+.salesdetails {
+    border-right:8px solid #a63400;
+}
+.nav-dots span.nav-dot-current:after{
+    background-image:url(../images/pagination-red.png);
+}
+.flexslider_blog .flex-direction-nav .next {
+	background: #a63400 url(../images/next.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .prev {
+	background: #a63400 url(../images/prev.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .next:hover{
+	background: #8a0a0b url(../images/next.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .prev:hover{
+	background: #8a0a0b url(../images/prev.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .next {
+	background: #8a0a0b url(../images/next.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .prev {
+	background: #8a0a0b url(../images/prev.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .next:hover{
+	background: #a63400 url(../images/next.png) center no-repeat;
+}
+.flexslider_blog .flex-direction-nav .prev:hover{
+	background: #a63400 url(../images/prev.png) center no-repeat;
+}
+.flex_testimonial .flex-control-nav li a:hover, .flex_testimonial .flex-control-nav li a.active{
+    background: #a63400;    
+}
+.flexslider_blog li.blog_item .flex_content a.read_more:hover {
+    background: #8a0a0b;
+    border: 1px solid #8a0a0b;
+}
+/*==========Footer Colors==========*/
+.footer-container {
+    background: #a63400;
+}
+.footer-container h4 {
+border-bottom:1px solid #BD3C01;
+}
+.footer-container p {
+    color:#fff;
+}
+.footer-container .textwidget {
+    color: #fff;
+}
+.footer-container ul {
+    list-style-image:url(../images/red-arrow.png);
+}
+.footer-container a {
+    color:#fff;
+}
+.footer-navi .navigation ul li {
+   background-position:100% 0%;
+}
+.footer-navi .navigation ul li a {
+    color:#FFFFFF;
+}
+.footer-navi .navigation .right-navi p {
+    color:#FFFFFF;
+}
+.footer-navi {
+    background:#8a0a0b;
+}
+.footer #searchform label {
+    color: #f2c47c;
+}
+.footer #searchform {
+background: #8a0a0b;
+}
+.footer .contactform input[type=text], .footer .contactform input[type=email] {
+    background-color: #8a0a0b;
+}
+.footer .contactform textarea {
+	background-color: #8a0a0b;
+}
+/*=========================================*/
+/*==========Start Home Page Style==========*/
+/*=========================================*/
+.folio-page-info ul.paging li.first a {
+    color:#FFFFFF;
+}
+.folio-page-info ul.paging li:hover {
+}
+ul.paging a.active, ul.paging a:hover, ul.paging a.current {
+    color:#ffffff !important;
+    border:1px solid #546F9E;
+    background:url(images/grad_px.gif) top repeat-x #A63400;
+}
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+    .footer #searchform {
+        border:1px solid #bf440f !important;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        background-color:#872c05 !important;
+    }
+}
+@media only screen and ( max-width: 768px ) {
+    .it_mobile_menu li a:hover, .it_mobile_menu > li.current_page_item > a {
+        color: #A63400 !important;
+    }
+}
