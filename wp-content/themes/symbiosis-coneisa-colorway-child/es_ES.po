@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Symbiosis  ConeiSa Colorway child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun Nov 29 2015 01:16:32 GMT-0600 (CST)\n"
+"PO-Revision-Date: Sun Nov 29 2015 01:24:08 GMT-0600 (CST)\n"
+"Last-Translator: ashuin <asharma@symbiosisdigital.net>\n"
+"Language-Team: \n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: es_ES"
+
+#: new_footer.php:49
+msgid "Colorway Wordpress Theme</a> by InkThemes.com"
+msgstr ""
+
+#: home_feature_area.php:8
+msgid "Your Main Heading Comes Here! Set It From Themes Options Panel"
+msgstr ""
+
+#: home_feature_area.php:33
+msgid "Power of Easiness"
+msgstr ""
+
+#: home_feature_area.php:44
+msgid ""
+"This Colorway Wordpress Theme gives you the easiness of building your site "
+"without any coding skills required."
+msgstr ""
+
+#: home_feature_area.php:66
+msgid "Power of Speed"
+msgstr ""
+
+#: home_feature_area.php:77
+msgid ""
+"The Colorway Wordpress Theme is highly optimized for Speed. So that your "
+"website opens faster than any similar themes."
+msgstr ""
+
+#: home_feature_area.php:99
+msgid "Power of SEO"
+msgstr ""
+
+#: home_feature_area.php:111
+msgid ""
+"Visitors to the Website are very highly desirable. With the SEO Optimized "
+"Themes, You get more traffic from Google."
+msgstr ""
+
+#: home_feature_area.php:133
+msgid "Ready Contact Form"
+msgstr ""
+
+#: home_feature_area.php:145
+msgid ""
+"Let your visitors easily contact you. The builtin readymade contact form "
+"makes it easier for clients to contact."
+msgstr ""
+
+#: front-page.php:60
+msgid "Region"
+msgstr ""
+
+#. Name of the theme
+msgid "Symbiosis  ConeiSa Colorway child"
+msgstr ""
+
+#. Description of the theme
+msgid "Colorway Child theme for Conei S.A by Symbiosis Digital"
+msgstr ""
+
+#. Author of the theme
+msgid "ashuin"
+msgstr ""
+
+#: footer-bk.php:15 /footer.php:8
+msgid "/sitemap"
+msgstr "/mapa-del-sitio"
+
+#: footer-bk.php:15 /footer.php:8
+msgid "Site map"
+msgstr "Mapa del Sitio"
+
+#: footer-bk.php:16 /footer.php:9
+msgid "/legal"
+msgstr "/legal"
+
+#: footer-bk.php:16 /footer.php:9
+msgid "Legal"
+msgstr "Legal"
+
+#: footer-bk.php:17 /footer.php:10
+msgid "/contact-us"
+msgstr "/contact-us"
+
+#: footer-bk.php:17 /footer.php:10
+msgid "Contact us"
+msgstr "Contacto"
