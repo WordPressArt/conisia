@@ -10,6 +10,8 @@ Template: colorwaytheme
 
 /* Start - Footer */
 
+
+
 .footerContent {
     padding: 0px 10px 0px 10px;
 }
@@ -215,7 +217,7 @@ ul.straight li.lang-item {
 }
 
 .lang-item {
-    display: inline;
+    display: inline !important;
 }
 
 #access img {
@@ -619,21 +621,23 @@ blockquote {
 
 /* bx slider */
 
-.parag p {
-    position: absolute;
-    top: 42px;
-    width: 37%;
-    right: 130px;
-    text-align: justify;
-}
+
 
 @media only screen and (max-width: 480px) {
     .bx-wrapper.one {
-        width: 100% !important;
-        margin: 18px -14px !important;
+        position: relative !important;
+    right: 0px !important;
     }
 }
 
+@media only screen and (max-device-width: 667px) 
+    and (-webkit-device-pixel-ratio: 2) {
+ .bx-wrapper.one {
+  position: relative !important;
+    bottom: -2px !important;
+  
+  }
+}
 a.bx-pager-link.active {
     border: solid #CDD0D4 6px;
     padding: 15px 0px;
@@ -644,30 +648,30 @@ a.bx-pager-link {
 }
 
 @media only screen and(min-device-width: 768px) {
-    .bx-wrapper.one {}
+  
     .parag p {
-        width: 17%;
-        margin: 0 -104px;
-        text-align: left;
+       width: 23%;
+    margin: 0 -118px;
+    word-wrap: break-word;
     }
     h2.topup {
         margin: 0 -245px;
         text-align: justify;
         width: 39% !important;
     }
-}
+  
+  
+  
 
+}
+}
 @media only screen and (max-device-width: 1024px) {
     #bx-pager {
         display: inline-table;
         width: 100%;
         margin: 57px -187px;
     }
-    .parag p {
-        width: 17%;
-        margin: 0 -104px;
-        text-align: left;
-    }
+
     h2.topup {
         margin: 0 -245px;
         text-align: justify;
@@ -675,12 +679,6 @@ a.bx-pager-link {
     }
 }
 
-h2.topup {
-    position: absolute;
-    top: 0px;
-    width: 37%;
-    right: 130px;
-}
 
 h2.milke {
     border-bottom: 2px solid #060606;
@@ -690,18 +688,8 @@ h2.milke {
     top: -13px;
 }
 
-#bx-pager {
-    /*position: relative;
-    bottom: 118px;
-    right: 108px;
-    float: right;
-    width: 100% !important; */
-}
 
-.bx-wrapper.one {
-    float: right;
-    margin: -59px 187px 3px;
-}
+
 
 
 /* Start - Parent Tempalte Changes */
@@ -712,16 +700,7 @@ h2.milke {
     margin-right: 5px !important;
 }
 
-/*
-.sl-slider-wrapper {
-    display: block;
-    min-height: 460px;
-    height: 460px;
-    margin: 0px 36px 1px 36px;
-    position: relative;
-    overflow: hidden;
-}
-*/
+
 
 /**COLE**/
 
@@ -813,9 +792,7 @@ h2.milke {
 /* Important Tempalte Changes */
 
 
-body > .container {
-    margin-top: 5px;
-}
+
 
 #content {
     margin-top: 0;
@@ -833,3 +810,81 @@ body > .container {
     margin-bottom: 0;
 }
 /* End - Parent Tempalte Changes */
+
+
+@media only screen and (max-width: 480px){
+.logo img {
+width:100%;
+    
+  
+  }
+.cole-right-menu div{ 
+    position: relative;
+    top: 35px;
+    width: 191px;
+
+
+}
+  
+
+
+}
+/* Out css */
+.bx-wrapper.one {
+    float: right;
+    position: relative;
+    bottom: 53px;
+    right: 205px;
+}
+
+
+@media (max-device-width: 1024px) and (orientation: landscape) { 
+.parag p {
+    margin: 71px auto;
+    width: 100%;
+}
+
+
+
+h2.topup {
+
+    text-align: right;
+    right: 88px;
+        position: absolute;
+    top: 0;
+    }
+ 
+      .bx-wrapper.one {
+  float: right;
+    position: relative;
+    bottom: 56px;
+    right: 42px;
+   
+}
+}
+
+@media (max-device-width: 768px) and (orientation: portrait) { 
+  .bx-wrapper.one {
+          position: relative;
+    top: 24px;
+  }
+
+  
+img.portate {
+width:100%;
+    
+    }
+  
+.parag p {
+    width: 97%;
+    word-break: break-word;
+    height: 100%;
+}
+  }
+  
+  h2.topup{
+    
+    }
+}
+
+}
