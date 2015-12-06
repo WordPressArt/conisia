@@ -89,7 +89,7 @@
                     </li>
                     <li class="cole-right-menu-container">
                         <div class="cole-right-menu">
-                            <div class="cole-langbar"><ul  id="cole-langbar-list"  class="red"><li class="lang-item"><?php _e('Language', 'colorway-coneisa-child'); ?> </li>
+                            <div><ul><li class="lang-item"><?php _e('Language', 'colorway-coneisa-child'); ?> </li>
                       <?php pll_the_languages(array('show_flags'=>1,'show_names'=>0)); ?></ul></div>
                             
                             <!--Start MenuBar-->
