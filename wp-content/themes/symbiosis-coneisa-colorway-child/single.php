@@ -1,6 +1,6 @@
 <?php get_header();	 ?>
 
-<?php 
+	<?php 
 
 		$pageType = get_post_type( get_the_ID() );
 		$templateDir = "inc/";
@@ -10,9 +10,6 @@
 				# code...
 				include_once($templateDir."single-application.php");
 				break;	
-			
-			
-		
 			default:
 				# code...
 				include_once($templateDir."single.php");
